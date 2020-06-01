@@ -1,0 +1,13 @@
+C:\Users\thiag_000\Projetos\C#\AulaPOOCartao\bin\Debug\netcoreapp3.1\AulaPOOCartao.exe
+C:\Users\thiag_000\Projetos\C#\AulaPOOCartao\bin\Debug\netcoreapp3.1\AulaPOOCartao.deps.json
+C:\Users\thiag_000\Projetos\C#\AulaPOOCartao\bin\Debug\netcoreapp3.1\AulaPOOCartao.runtimeconfig.json
+C:\Users\thiag_000\Projetos\C#\AulaPOOCartao\bin\Debug\netcoreapp3.1\AulaPOOCartao.runtimeconfig.dev.json
+C:\Users\thiag_000\Projetos\C#\AulaPOOCartao\bin\Debug\netcoreapp3.1\AulaPOOCartao.dll
+C:\Users\thiag_000\Projetos\C#\AulaPOOCartao\bin\Debug\netcoreapp3.1\AulaPOOCartao.pdb
+C:\Users\thiag_000\Projetos\C#\AulaPOOCartao\obj\Debug\netcoreapp3.1\AulaPOOCartao.csprojAssemblyReference.cache
+C:\Users\thiag_000\Projetos\C#\AulaPOOCartao\obj\Debug\netcoreapp3.1\AulaPOOCartao.csproj.CoreCompileInputs.cache
+C:\Users\thiag_000\Projetos\C#\AulaPOOCartao\obj\Debug\netcoreapp3.1\AulaPOOCartao.AssemblyInfoInputs.cache
+C:\Users\thiag_000\Projetos\C#\AulaPOOCartao\obj\Debug\netcoreapp3.1\AulaPOOCartao.AssemblyInfo.cs
+C:\Users\thiag_000\Projetos\C#\AulaPOOCartao\obj\Debug\netcoreapp3.1\AulaPOOCartao.dll
+C:\Users\thiag_000\Projetos\C#\AulaPOOCartao\obj\Debug\netcoreapp3.1\AulaPOOCartao.pdb
+C:\Users\thiag_000\Projetos\C#\AulaPOOCartao\obj\Debug\netcoreapp3.1\AulaPOOCartao.genruntimeconfig.cache
